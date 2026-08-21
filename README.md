@@ -1,4 +1,4 @@
-# Baking E-Commerce Backend (FastAPI + MongoDB) 🎂
+# 🍰 Baking E-Commerce Backend (FastAPI + MongoDB) 
 
 A complete, premium backend API system for a baking e-commerce platform (similar to Theobroma), built with **FastAPI** and **MongoDB (Motor)**. 
 
