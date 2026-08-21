@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymongo
+motor
+python-jose[cryptography]
+passlib[bcrypt]
+python-decouple
+pydantic-settings
+email-validator
+pytest
+pytest-asyncio
+httpx
+
